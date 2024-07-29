@@ -71,6 +71,6 @@ Happy coding! 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
-![ Make it work, make it right, make it fast. – Kent Bec](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![ Make it work, make it right, make it fast. – Kent Bec](https://quotes-github-readme.vercel.app)
 
 
